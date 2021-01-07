@@ -14,9 +14,9 @@ Python 3.*
 yfinance  
 tkinter  
 
-you can install yfinance with terminal:
+**you can install yfinance with terminal:**
 
-pip install yfinance
+**pip install yfinance**
 
       
     
