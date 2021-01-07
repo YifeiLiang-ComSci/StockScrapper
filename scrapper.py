@@ -7,7 +7,6 @@ import yfinance as yf
 ## function to fetch stock's info using yfinance API call
 def fetch():
     stockname = entry.get()
-    print(stockname)
     try:  ## in case user enter invalid stock name
     	share = yf.Ticker(stockname)
 
