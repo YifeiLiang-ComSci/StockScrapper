@@ -24,7 +24,7 @@ pip install yfinance
 
 ![](example.png)
 
-## architecture diagram
+## architectureDiagram
 ![](architecture diagram.png)
 ## Authors
 
