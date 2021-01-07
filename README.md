@@ -1,23 +1,24 @@
-# Collinear Points
-&nbsp; &nbsp; &nbsp;    &nbsp;Computer vision involves analyzing patterns in visual images and reconstructing the real-world objects that produced them. The process is often broken up into two phases: feature detection and pattern recognition. Feature detection involves selecting important features of the image; pattern recognition involves discovering patterns in the features. We will investigate a particularly clean pattern recognition problem involving points and line segments. This kind of pattern recognition arises in many other applications such as statistical data analysis.  
+# Stock Price Checker
+&nbsp; &nbsp; &nbsp;    &nbsp;Stock price checker will scrap stock price data from a public website so that when given a stock tick symbol (e.g. “ISRG”, aka Intuitive Surgical) as the input, the application returns the stock’s high, low, open and close prices today.
 
 ![](gui.png) 
 
 
 ## Getting Started
-Simply comile and run the BruteCollinearPoints.java/FastCollinearPoints.java with filename inside the commandLine argument.
+go to the residing folder and run:  
+    % python scrappper.py  
 
 ### Prerequisites
 
-Python 3.*
-yfinance
-tkinter
+Python 3.*  
+yfinance  
+tkinter  
 
+you can install yfinance with terminal:
 
-**If running using terminal:**.   
-go to the residing folder and run:  
-    % python scrappper.py  
-    
+pip install yfinance
+
+      
     
 ### Exmaple(if run correctly)
 
