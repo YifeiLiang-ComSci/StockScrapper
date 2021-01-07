@@ -6,7 +6,7 @@
 
 ## Getting Started
 go to the residing folder and run:  
-    % python scrappper.py  
+    % python scrapper.py  
 
 ### Prerequisites
 
