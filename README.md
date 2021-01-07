@@ -24,7 +24,8 @@ pip install yfinance
 
 ![](example.png)
 
-
+## architecture diagram
+![](architecture diagram.png)
 ## Authors
 
 * **Yifei Liang** - scrapper.py
