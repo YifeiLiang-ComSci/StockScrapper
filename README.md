@@ -1,5 +1,5 @@
 # Stock Price Checker
-&nbsp; &nbsp; &nbsp;    &nbsp;Stock price checker will scrap stock price data from a public website so that when given a stock tick symbol (e.g. “ISRG”, aka Intuitive Surgical) as the input, the application returns the stock’s high, low, open and close prices today.
+&nbsp; &nbsp; &nbsp;    &nbsp;Stock price checker will scrap stock price data from a public website so that when given a stock tick symbol (e.g. “ISRG”, aka Intuitive Surgical) as the input, the application returns the stock’s high, low, open and close prices today. \b{If the market is not open yet, it will return yesterday's data}
 
 ![](gui.png) 
 
